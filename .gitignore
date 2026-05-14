@@ -1,0 +1,11 @@
+node_modules/
+chaincode/vendor/
+fabric-samples/
+backend/src/ca-certs/
+backend/src/fabric-wallet/
+install-fabric.sh
+*.pem
+*_sk
+*.key
+*.id
+.env
